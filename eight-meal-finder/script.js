@@ -46,7 +46,7 @@ function searchMeal(e){
         alert("Please enter a search term");
     }
 
-}s
+}
 //Event Listener
 submit.addEventListener('submit',searchMeal)
 random.addEventListener('click',getRandomMeal)
